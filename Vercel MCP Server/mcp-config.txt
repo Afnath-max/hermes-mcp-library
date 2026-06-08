@@ -3,3 +3,4 @@
   "args": ["mcp-remote", "https://mcp.vercel.com"],
   "env": {}
 }
+
